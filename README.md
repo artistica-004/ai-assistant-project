@@ -1,3 +1,15 @@
+---
+title: AI Assistant Live
+emoji: 🤖
+colorFrom: blue
+colorTo: purple
+sdk: streamlit
+sdk_version: 1.31.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # 🤖 Live AI Assistant
 
 A powerful AI assistant that can search the web in real-time and provide accurate, up-to-date information.
@@ -29,7 +41,7 @@ A powerful AI assistant that can search the web in real-time and provide accurat
 ## 💻 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/ai-assistant-project.git
+git clone https://github.com/artistica-004/ai-assistant-project.git
 cd ai-assistant-project
 
 # Install dependencies
@@ -50,10 +62,6 @@ streamlit run app.py
 
 Both services offer free tiers!
 
-## 📸 Screenshots
-
-*Add screenshots here after deployment*
-
 ## 🎯 Use Cases
 
 - Get real-time weather information
@@ -73,26 +81,13 @@ MIT License
 
 ## 👨‍💻 Author
 
-Built by [Your Name]
+Built by Artistica-004
 
 ---
 
 **Note**: This project uses free API tiers. For production use, consider upgrading to paid plans.
-```
 
-**3. Save the file** (Ctrl+S)
+## 🔗 Links
 
----
-
-# 📝 STEP 2: Update .gitignore (Security!)
-
-**1. Open `.gitignore` file**
-
-**2. Make sure it has this:**
-```
-.env
-__pycache__/
-*.pyc
-.streamlit/
-*.log
-.DS_Store
+- **GitHub**: https://github.com/artistica-004/ai-assistant-project
+- **Live Demo**: https://huggingface.co/spaces/artistica-004/ai-assistant-live

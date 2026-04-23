@@ -3,21 +3,17 @@ import os
 from groq import Groq
 import requests
 from dotenv import load_dotenv
-
 # Load environment variables
 load_dotenv()
-
 # Initialize clients
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 SERPAPI_KEY = os.getenv("SERPAPI_KEY")
-
 # Page configuration
 st.set_page_config(
     page_title="Shivani's AI Assistant",
     page_icon="🤖",
     layout="centered"
 )
-
 # Title
 st.title("🤖 Shivani's Live AI Assistant")
 st.markdown("*Powered by Groq AI + Real-Time Web Search*")

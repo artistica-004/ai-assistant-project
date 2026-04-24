@@ -1,3 +1,10 @@
+t
+---
+
+# 🤖 Live AI Assistant
+
+A powerful AI assistant that can search the web in real-time and provide accurate, up-to-date information.
+
 ---
 title: AI Assistant Live
 emoji: 🤖
@@ -9,11 +16,6 @@ app_file: app.py
 pinned: false
 license: mit
 ---
-
-# 🤖 Live AI Assistant
-
-A powerful AI assistant that can search the web in real-time and provide accurate, up-to-date information.
-
 ## ✨ Features
 
 - 💬 **Natural Conversations** - Chat naturally with AI
